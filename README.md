@@ -10,6 +10,9 @@ Implementation of BertGrid : https://arxiv.org/abs/1909.04948
 
 
 
+
+## To run
+
 ```
 python convert_.py -f /home/sam-ai/PycharmProjects/bert_grid/images/invoice.jpg 
                    -b /home/sam-ai/PycharmProjects/bert_grid/images/invoice_bb.jpg 
